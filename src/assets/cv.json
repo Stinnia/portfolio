@@ -1,0 +1,86 @@
+{
+  "basics": {
+    "name": "Stinnia Hansen Kleist",
+    "label": "Multimedia designer",
+    "picture": "",
+    "email": "stinniahk@gmail.com",
+    "phone": "+45 42484749",
+    "website": "http://stinnia.com",
+    "summary": "I am a future expert programmer in training.",
+    "location": {
+      "address": "Ordrup Jagtvej",
+      "postalCode": "2920",
+      "city": "Charlottenlund",
+      "region": "København"
+    },
+    "profiles": [{
+      "network": "Facebook",
+      "username": "Stinnia",
+      "url": "http://facebook.com/stinnia"
+    }]
+  },
+  "work": [{
+    "company": "Katuaq",
+    "position": "Waiter",
+    "website": "http://katuaq.gl",
+    "startDate": "August 2013",
+    "endDate": "June 2015"
+   },
+	{
+    "company": "Nyhavnskroen",
+    "position": "Waiter",
+    "website": "http://nyhavnskroen.dk",
+    "startDate": "May 2016",
+    "endDate": "May 2018"
+   }], 
+  "education": [{
+    "institution": "Aalborghus Gymnasium",
+    "studyType": "STX",
+    "startDate": "August 2010",
+    "endDate": "June 2013"
+  },
+	{
+    "institution": "Copenhagen Business Academy",
+    "area": "Multimedia Designer",
+    "studyType": "AP Graduate",
+    "startDate": "August 2017",
+    "endDate": "June 2019",
+    "courses": [
+      "Webdesign - HTML5, CSS/Sass, Javascript, jQuery, Bootstrap, PHP, SQL, JSON, AngularJS, Wordpress",
+		"Graphic design - Adobe Programs (Photoshop, Illustrator, Dreamveawer, Premiere Pro, Animate CC, Experience Design)"
+    ]
+  }],
+  "skills": [{
+    "name": "Web Development",
+    "level": "Master in traning",
+    "keywords": [
+      "HTML",
+      "CSS",
+      "Javascript",
+		"PHP",
+		"AngularJS"
+    ]
+  }],
+  "languages": [{
+    "name": "Greenlandic",
+    "level": "Native speaker"
+  },{
+    "name": "Danish",
+    "level": "Fluent"
+  },{
+    "name": "English",
+    "level": "Fluent"
+  },{
+    "name": "Romanian",
+    "level": "Limited"
+  }],
+  "interests": [{
+    "name": "Nature",
+    "keywords": [
+      "Hunting",
+      "Fishing",
+		"Sailing"
+    ]
+  }],
+  "references": []
+}
