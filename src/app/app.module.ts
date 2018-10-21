@@ -30,7 +30,8 @@ const appRoutes: Routes = [
     HomeComponent,
     WorkComponent,
 	StinniaComponent, 
-	ContactComponent, NavbarComponent,	 
+	ContactComponent, 
+	 NavbarComponent
   ],
   imports: [
     BrowserModule,
@@ -39,7 +40,8 @@ const appRoutes: Routes = [
 	 
   ],
   providers: [],
-  bootstrap: [AppComponent]
+  bootstrap: [AppComponent],
+	
 	
 })
 export class AppModule { }

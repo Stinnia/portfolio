@@ -28,7 +28,9 @@
     "jquery": "^3.3.1",
     "rxjs": "~6.2.0",
     "typed.js": "^2.0.9",
-    "zone.js": "~0.8.26"
+    "zone.js": "~0.8.26",
+	  angular.module('app', ['angular-typed'])
+	  
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "~0.8.0",
